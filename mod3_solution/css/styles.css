@@ -14,3 +14,15 @@
   clear: both;
   margin-top: -30px;
 }
+#nav-list{
+	text-align: center;
+}
+#brand{
+	color: #fff;
+	margin-top: 0;
+	text-align: left;
+}
+.food-title{
+	width: auto;
+	text-align: center;
+}
